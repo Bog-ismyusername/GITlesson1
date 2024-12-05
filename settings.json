@@ -1,0 +1,8 @@
+{
+  "speed": 2,
+  "color": "#0000ff",
+  "backgroundColor": "#f3f3f3",
+  "size": 50,
+  "borderWidth": 4,
+  "displayTime": 6000
+}
